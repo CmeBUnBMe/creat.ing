@@ -1,0 +1,6 @@
+{
+  "name": "HelloWorld",
+  "dependencies": {
+    "express": "latest"
+  }
+}
